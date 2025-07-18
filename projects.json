@@ -1,12 +1,12 @@
 [
   {
-    "name": "CarePoint",
+    "name": "JobConnect",
     "desc": "CarePoint is a full-stack healthcare management system built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.",
     "image": "carePoint",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com",
-      "code": "#"
+      "view": "https://github.com/mohit12rai/JobConnect/releases",
+      "code": "https://github.com/mohit12rai/JobConnect.git"
     }
   },
   {

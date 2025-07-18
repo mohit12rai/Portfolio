@@ -1,12 +1,12 @@
 [
   {
-    "name": "CarePoint",
-    "desc": "CarePoint is a healthcare service providing medical assistance, telemedicine, and wellness solutions with advanced technology for better patient care..",
-    "image": "carePoint",
+    "name": "JobConnectApp",
+    "desc": "JobConnect is an online platform that helps connect. A special feature of JobConnect is that it connects seekers and providers through WhatsApp .",
+    "image": "Capture3",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com",
-      "code": "#"
+      "view": "https://github.com/mohit12rai/JobConnect/releases",
+      "code": "https://github.com/mohit12rai/JobConnect.git"
     }
   },
   {
@@ -59,17 +59,8 @@
       "view": "https://reactjsprojects.herokuapp.com/",
       "code": "https://github.com/jay-cmk/Portfolio"
     }
-  },
-  {
-    "name": "QuizApp",
-    "desc": "A quiz app typically offers a wide range of categories such as general knowledge, history, science, pop culture, sports, geography, language, and more.",
-    "image": "quiz",
-    "category": "mern",
-    "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "#"
-    }
   }
+ 
   
   
 ]
