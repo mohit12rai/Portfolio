@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CarePoint",
+    "desc": "CarePoint is a full-stack healthcare management system built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.",
+    "image": "carePoint",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Movies",
+    "desc": "These websites provide essential details about movies, such as cast, crew, plot summaries, trailers, reviews, and ratings from critics and audiences..",
+    "image": "movie",
+    "category": "mern",
+    "links": {
+      "view": "https://elaborate-druid-d1a1b9.netlify.app/",
+      "code": "https://github.com/jay-cmk/Movies-Hub/tree/master"
+    }
+  },
+ 
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com",
+      "code": "#"
+    }
+  },
+ 
+  {
+    "name": "Devdetective",
+    "desc": "The primary purpose of a weather app is to provide users with accurate, real-time weather information and forecasts to help them plan their day and make informed decisions based on current and future weather conditions.",
+    "image": "Devdetective",
+    "category": "android",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "PortFolio",
+    "desc": "It helps users present their work in an organized way, showcasing their abilities, experience, and style to potential employers, clients, or collaborators.",
+    "image": "Devdetective",
+    "category": "mern",
+    "links": {
+      "view": "https://port-folio-jay.netlify.app/",
+      "code": "https://github.com/jay-cmk/Portfolio"
+    }
+  },
+  {
+    "name": "QuizApp",
+    "desc": "A quiz app typically offers a wide range of categories such as general knowledge, history, science, pop culture, sports, geography, language, and more.",
+    "image": "quiz",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  }
+  
+  
+]

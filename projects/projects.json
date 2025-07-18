@@ -1,0 +1,75 @@
+[
+  {
+    "name": "CarePoint",
+    "desc": "CarePoint is a healthcare service providing medical assistance, telemedicine, and wellness solutions with advanced technology for better patient care..",
+    "image": "carePoint",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Movies",
+    "desc": "These websites provide essential details about movies, such as cast, crew, plot summaries, trailers, reviews, and ratings from critics and audiences..",
+    "image": "movies",
+    "category": "mern",
+    "links": {
+      "view": "https://movieshub4you.netlify.app/",
+      "code": "https://github.com/jay-cmk/Movies-Hub/tree/master"
+    }
+  },
+ 
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "LMS",
+    "desc": "A Learning Management System (LMS) is a software platform that helps organizations manage, deliver, and track educational courses and training programs.  ",
+    "image": "LMS",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Vchat",
+    "desc": "A VChat chatting app is a real-time messaging platform that enables users to communicate via text, voice, or video. ",
+    "image": "vchat",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "PortFolio",
+    "desc": "It helps users present their work in an organized way, showcasing their abilities, experience, and style to potential employers, clients, or collaborators.",
+    "image": "persport",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jay-cmk/Portfolio"
+    }
+  },
+  {
+    "name": "QuizApp",
+    "desc": "A quiz app typically offers a wide range of categories such as general knowledge, history, science, pop culture, sports, geography, language, and more.",
+    "image": "quiz",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  }
+  
+  
+]
